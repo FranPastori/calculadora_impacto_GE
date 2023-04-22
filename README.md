@@ -1,0 +1,1 @@
+# calculadora_impacto_GE
