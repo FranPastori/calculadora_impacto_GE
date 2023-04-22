@@ -16,7 +16,7 @@ h1,h2{
 form{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     width: 550px;
     height: 550px;
