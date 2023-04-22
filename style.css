@@ -1,7 +1,22 @@
 body{
     font-family: 'Bitter', serif;
+    background-color: #EA569A;
+    height: 100vh;
+    width: 100vw;
+}
+header{
+    background-color: white;
+    height: 30vh;
+    width: 100vw;
+}
+h1,h2{
+    font-family: 'Fredericka the Great', cursive;
 }
 
-h1{
-    font-family: 'Fredericka the Great', cursive;
+form{
+    width: 650px;
+    height: 650px;
+    border-radius: 40px;
+    box-shadow: inset;
+    background-color: white;
 }
