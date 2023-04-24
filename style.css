@@ -22,6 +22,7 @@ h1,h2{
     color: #EA569A;
     text-align: center;
     font-family: 'Fredericka the Great', cursive;
+    padding: 2vh;
 }
 .logo{
     height: 30vw;
@@ -47,6 +48,7 @@ font-weight: bold;
 color: #696565;
 }
 input{
+    padding: 2vh;
     height: 60px;
     width: inherit;
     border-radius: 30px;
