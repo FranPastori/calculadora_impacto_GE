@@ -14,12 +14,14 @@ h1,h2{
 }
 
 form{
+    position: absolute;
+    top: 15vw;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    width: 550px;
-    height: 550px;
+    width: 30vw;
+    height: 30vw;
     border-radius: 40px;
     box-shadow: 20px 10px 20px 2px #121212d1;
     background-color: white;
