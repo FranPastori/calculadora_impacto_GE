@@ -72,8 +72,8 @@ button{
   
     form{
     position: absolute;
-    top: 9vw;
-    left: 30vw;
+    top: 30vw;
+    left: 0vw;
     display: grid;
     justify-content: center;
     align-items: flex-start;
