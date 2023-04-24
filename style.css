@@ -46,8 +46,9 @@ font-weight: bold;
 color: #696565;
 }
 input{
-
+    height: 30px;
+    width: inherit;
     border-radius: 30px;
     background-color: #DFD8D8;
-    
+
 }
