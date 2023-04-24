@@ -69,7 +69,7 @@ button{
 
 }
 
-@media screen {(max-width: 1024px;)
+@media screen {(max-width: 1000px;)
   
     form{
     position: absolute;
@@ -96,6 +96,9 @@ button{
         border-radius: 30px;
         justify-self: center;
     
+    }
+    .logo{
+        display: none;
     }
     h1,h2{
         font-size: 1.5rem;
