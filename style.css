@@ -58,3 +58,10 @@ input{
     font-weight: 400;
     font-family: 'Bitter', serif;
 }
+button{
+    background-color: #EA569A;
+    font-family: 'Fredericka the Great', cursive;
+    color: #DFD8D8;
+    width: 10vw;
+    height: 60px;
+}
