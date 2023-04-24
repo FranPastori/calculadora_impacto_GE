@@ -62,9 +62,10 @@ button{
     background-color: #EA569A;
     font-family: 'Fredericka the Great', cursive;
     color: #DFD8D8;
-    width: 10vw;
+    width: 20vw;
     height: 60px;
     font-size: 32px;
     border: #EA569A;
-    
+    border-radius: 30px;
+
 }
