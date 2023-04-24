@@ -6,8 +6,8 @@
 body{
     font-family: 'Bitter', serif;
     background-color: #EA569A;
-    height: 95vh;
-    width: 95vw;
+    height: 100%;
+    width: 100%;
 }
 header{
     display: flex;
@@ -108,8 +108,6 @@ button{
         font-family: 'Fredericka the Great', cursive;
         padding: 2vh;
     }
-
-
 
 
 }
