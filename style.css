@@ -83,6 +83,15 @@ button{
 
 }
 
+.confete{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(celebração.png);
+    background-size: 100%;
+}
+
 @media only screen and (max-width: 900px){
   
     form{
