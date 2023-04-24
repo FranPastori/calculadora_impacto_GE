@@ -103,9 +103,10 @@ p{
     padding: 20px;
 }
 
-a{
+butTon a {
     font-style: none;
-    
+    color: #DFD8D8;
+
 }
 @media only screen and (max-width: 900px){
   
