@@ -44,11 +44,12 @@ form{
     padding: 50px;
 }
 label{
+    padding: 10px;
 font-weight: bold;
 color: #696565;
 }
 input{
-    padding: 2vh;
+    padding:2px;
     height: 60px;
     width: inherit;
     border-radius: 30px;
