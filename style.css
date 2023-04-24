@@ -6,8 +6,8 @@
 body{
     font-family: 'Bitter', serif;
     background-color: #EA569A;
-    height: 100vh;
-    width: 100vw;
+    height: 95vh;
+    width: 95vw;
 }
 header{
     display: flex;
