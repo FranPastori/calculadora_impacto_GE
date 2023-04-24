@@ -73,7 +73,7 @@ button{
     form{
     position: absolute;
     top: 30vw;
-    left: 0vw;
+    left: 1vw;
     display: grid;
     justify-content: center;
     align-items: flex-start;
