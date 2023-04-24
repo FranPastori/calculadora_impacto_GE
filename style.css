@@ -22,7 +22,10 @@ h1,h2{
     text-align: center;
     font-family: 'Fredericka the Great', cursive;
 }
-
+.logo{
+    height: 30vw;
+    width: auto;
+    }
 form{
     position: absolute;
     top: 9vw;
@@ -38,7 +41,13 @@ form{
     background-color: white;
     padding: 50px;
 }
-.logo{
-height: 30vw;
-width: auto;
+label{
+font-weight: bold;
+color: #696565;
+}
+input{
+
+    border-radius: 30px;
+    background-color: #DFD8D8;
+    
 }
