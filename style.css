@@ -89,7 +89,7 @@ button{
     justify-content: center;
     align-items: center;
     background-image: url(celebracao.png);
-    background-size:inherit;
+    background-size:60%;
     background-position: center center;
     padding: 20px;
 }
