@@ -88,8 +88,26 @@ button{
     .logo{
         display: none;
     }
+    button{
+        background-color: #EA569A;
+        font-family: 'Fredericka the Great', cursive;
+        color: #DFD8D8;
+        width: 20vw;
+        height: 60px;
+        font-size: 1em;
+        border: #EA569A;
+        border-radius: 30px;
+        justify-self: center;
     
-
+    }
+    h1,h2{
+        font-size: 2rem;
+        font-weight: 100;
+        color: #EA569A;
+        text-align: center;
+        font-family: 'Fredericka the Great', cursive;
+        padding: 2vh;
+    }
 
 
 
