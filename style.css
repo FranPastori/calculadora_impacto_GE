@@ -102,6 +102,11 @@ p{
     font-size: 2rem;
     padding: 20px;
 }
+
+a{
+    font-style: none;
+    
+}
 @media only screen and (max-width: 900px){
   
     form{
