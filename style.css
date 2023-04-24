@@ -67,5 +67,6 @@ button{
     font-size: 32px;
     border: #EA569A;
     border-radius: 30px;
+    justify-self: center;
 
 }
